@@ -1,0 +1,4 @@
+Suma: 68
+MA: 6.8
+valMinima: 0
+valMAxima: 20
